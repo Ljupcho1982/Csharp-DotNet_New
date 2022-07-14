@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "80ef80f0-2ce4-4cb8-89a3-1b259d654152": {
+      "ProjectGuid": "80ef80f0-2ce4-4cb8-89a3-1b259d654152",
+      "DisplayName": "Vocabulary",
+      "ColorIndex": 0
+    },
+    "d3f39bb2-8a58-4b41-b16e-84d8cbf1c534": {
+      "ProjectGuid": "d3f39bb2-8a58-4b41-b16e-84d8cbf1c534",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 1
+    },
+    "f362a5a3-21e3-4126-8c42-a6a28e91e462": {
+      "ProjectGuid": "f362a5a3-21e3-4126-8c42-a6a28e91e462",
+      "DisplayName": "numbers",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
