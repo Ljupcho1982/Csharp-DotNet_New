@@ -40,7 +40,7 @@ foreach (AssemblyName name in assembly.GetReferencedAssemblies())
     char symbol = '$';
    // char userChoice = (int)Console.ReadKey().KeyChar;
 
-    Console.WriteLine($"{nameof(letter)}:{letter} \r\n" + $"{nameof(digit)}:{digit} \r\n" + $"{nameof(symbol)}:{symbol}"+$"{nameof(userChoice)}:{userChoice}");
+    Console.WriteLine($"{nameof(letter)}:{letter} \r\n" + $"{nameof(digit)}:{digit} \r\n" + $"{nameof(symbol)}:{symbol}");
 
 
 //For text, multiple letters, such as Bob, are stored as a string type and are assigned using double quotes around the literal value

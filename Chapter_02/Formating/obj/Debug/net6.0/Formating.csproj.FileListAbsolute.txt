@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_02\Formating\bin\Debug\net6.0\Formating.exe
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_02\Formating\bin\Debug\net6.0\Formating.deps.json
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_02\Formating\bin\Debug\net6.0\Formating.runtimeconfig.json
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_02\Formating\bin\Debug\net6.0\Formating.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_02\Formating\bin\Debug\net6.0\ref\Formating.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_02\Formating\bin\Debug\net6.0\Formating.pdb
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_02\Formating\obj\Debug\net6.0\Formating.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_02\Formating\obj\Debug\net6.0\Formating.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_02\Formating\obj\Debug\net6.0\Formating.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_02\Formating\obj\Debug\net6.0\Formating.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_02\Formating\obj\Debug\net6.0\Formating.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_02\Formating\obj\Debug\net6.0\Formating.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_02\Formating\obj\Debug\net6.0\ref\Formating.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_02\Formating\obj\Debug\net6.0\Formating.pdb
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_02\Formating\obj\Debug\net6.0\Formating.genruntimeconfig.cache
