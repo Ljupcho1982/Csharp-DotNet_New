@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\BooleanOperators\bin\Debug\net6.0\BooleanOperators.exe
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\BooleanOperators\bin\Debug\net6.0\BooleanOperators.deps.json
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\BooleanOperators\bin\Debug\net6.0\BooleanOperators.runtimeconfig.json
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\BooleanOperators\bin\Debug\net6.0\BooleanOperators.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\BooleanOperators\bin\Debug\net6.0\ref\BooleanOperators.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\BooleanOperators\bin\Debug\net6.0\BooleanOperators.pdb
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\BooleanOperators\obj\Debug\net6.0\ref\BooleanOperators.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.pdb
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.exe
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.deps.json
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.runtimeconfig.json
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\SelectionStatements\bin\Debug\net6.0\ref\SelectionStatements.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.pdb
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\SelectionStatements\obj\Debug\net6.0\ref\SelectionStatements.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.pdb
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.genruntimeconfig.cache
