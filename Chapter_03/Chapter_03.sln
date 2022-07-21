@@ -5,11 +5,15 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{B5C42CD4-AAD4-4347-92AA-2CEB2F30DA5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooleanOperators", "BooleanOperators\BooleanOperators.csproj", "{D0A8186F-9D5B-4FD4-ACA7-EC02855647BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BooleanOperators", "BooleanOperators\BooleanOperators.csproj", "{D0A8186F-9D5B-4FD4-ACA7-EC02855647BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitwiseAndShiftOperators", "BitwiseAndShiftOperators\BitwiseAndShiftOperators.csproj", "{DE4747FD-EFD0-4164-94E6-A7F4EADC4260}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BitwiseAndShiftOperators", "BitwiseAndShiftOperators\BitwiseAndShiftOperators.csproj", "{DE4747FD-EFD0-4164-94E6-A7F4EADC4260}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionStatements", "SelectionStatements\SelectionStatements.csproj", "{86698029-E58B-4A79-889F-B00BD66B8085}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectionStatements", "SelectionStatements\SelectionStatements.csproj", "{86698029-E58B-4A79-889F-B00BD66B8085}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterationStatments", "InterationStatments\InterationStatments.csproj", "{15F560F9-6BB3-4889-AC77-CF826674AAD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastingConverting", "CastingConverting\CastingConverting.csproj", "{DE11D2AA-E844-402D-A7AF-F67E60D301E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{86698029-E58B-4A79-889F-B00BD66B8085}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86698029-E58B-4A79-889F-B00BD66B8085}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86698029-E58B-4A79-889F-B00BD66B8085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F560F9-6BB3-4889-AC77-CF826674AAD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F560F9-6BB3-4889-AC77-CF826674AAD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F560F9-6BB3-4889-AC77-CF826674AAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F560F9-6BB3-4889-AC77-CF826674AAD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE11D2AA-E844-402D-A7AF-F67E60D301E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE11D2AA-E844-402D-A7AF-F67E60D301E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE11D2AA-E844-402D-A7AF-F67E60D301E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE11D2AA-E844-402D-A7AF-F67E60D301E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

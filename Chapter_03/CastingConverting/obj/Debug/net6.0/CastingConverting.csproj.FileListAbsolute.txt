@@ -1,0 +1,14 @@
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\CastingConverting\bin\Debug\net6.0\CastingConverting.exe
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\CastingConverting\bin\Debug\net6.0\CastingConverting.deps.json
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\CastingConverting\bin\Debug\net6.0\CastingConverting.runtimeconfig.json
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\CastingConverting\bin\Debug\net6.0\CastingConverting.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\CastingConverting\bin\Debug\net6.0\ref\CastingConverting.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\CastingConverting\bin\Debug\net6.0\CastingConverting.pdb
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\CastingConverting\obj\Debug\net6.0\CastingConverting.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\CastingConverting\obj\Debug\net6.0\CastingConverting.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\CastingConverting\obj\Debug\net6.0\CastingConverting.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\CastingConverting\obj\Debug\net6.0\CastingConverting.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\CastingConverting\obj\Debug\net6.0\CastingConverting.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\CastingConverting\obj\Debug\net6.0\ref\CastingConverting.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\CastingConverting\obj\Debug\net6.0\CastingConverting.pdb
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\CastingConverting\obj\Debug\net6.0\CastingConverting.genruntimeconfig.cache

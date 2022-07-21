@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\InterationStatments\bin\Debug\net6.0\InterationStatments.exe
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\InterationStatments\bin\Debug\net6.0\InterationStatments.deps.json
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\InterationStatments\bin\Debug\net6.0\InterationStatments.runtimeconfig.json
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\InterationStatments\bin\Debug\net6.0\InterationStatments.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\InterationStatments\bin\Debug\net6.0\ref\InterationStatments.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\InterationStatments\bin\Debug\net6.0\InterationStatments.pdb
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\InterationStatments\obj\Debug\net6.0\InterationStatments.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\InterationStatments\obj\Debug\net6.0\InterationStatments.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\InterationStatments\obj\Debug\net6.0\InterationStatments.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\InterationStatments\obj\Debug\net6.0\InterationStatments.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\InterationStatments\obj\Debug\net6.0\InterationStatments.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\InterationStatments\obj\Debug\net6.0\InterationStatments.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\InterationStatments\obj\Debug\net6.0\ref\InterationStatments.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\InterationStatments\obj\Debug\net6.0\InterationStatments.pdb
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\InterationStatments\obj\Debug\net6.0\InterationStatments.genruntimeconfig.cache
