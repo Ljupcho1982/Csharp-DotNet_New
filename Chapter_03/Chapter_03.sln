@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BitwiseAndShiftOperators", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectionStatements", "SelectionStatements\SelectionStatements.csproj", "{86698029-E58B-4A79-889F-B00BD66B8085}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterationStatments", "InterationStatments\InterationStatments.csproj", "{15F560F9-6BB3-4889-AC77-CF826674AAD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterationStatments", "InterationStatments\InterationStatments.csproj", "{15F560F9-6BB3-4889-AC77-CF826674AAD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastingConverting", "CastingConverting\CastingConverting.csproj", "{DE11D2AA-E844-402D-A7AF-F67E60D301E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CastingConverting", "CastingConverting\CastingConverting.csproj", "{DE11D2AA-E844-402D-A7AF-F67E60D301E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingExepctions", "HandlingExepctions\HandlingExepctions.csproj", "{0461EC17-0D79-423A-A08B-FD6A1EBC91AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{DE11D2AA-E844-402D-A7AF-F67E60D301E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE11D2AA-E844-402D-A7AF-F67E60D301E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE11D2AA-E844-402D-A7AF-F67E60D301E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0461EC17-0D79-423A-A08B-FD6A1EBC91AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0461EC17-0D79-423A-A08B-FD6A1EBC91AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0461EC17-0D79-423A-A08B-FD6A1EBC91AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0461EC17-0D79-423A-A08B-FD6A1EBC91AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

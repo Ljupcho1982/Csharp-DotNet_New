@@ -1,0 +1,14 @@
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\HandlingExepctions\bin\Debug\net6.0\HandlingExepctions.exe
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\HandlingExepctions\bin\Debug\net6.0\HandlingExepctions.deps.json
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\HandlingExepctions\bin\Debug\net6.0\HandlingExepctions.runtimeconfig.json
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\HandlingExepctions\bin\Debug\net6.0\HandlingExepctions.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\HandlingExepctions\bin\Debug\net6.0\ref\HandlingExepctions.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\HandlingExepctions\bin\Debug\net6.0\HandlingExepctions.pdb
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\HandlingExepctions\obj\Debug\net6.0\HandlingExepctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\HandlingExepctions\obj\Debug\net6.0\HandlingExepctions.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\HandlingExepctions\obj\Debug\net6.0\HandlingExepctions.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\HandlingExepctions\obj\Debug\net6.0\HandlingExepctions.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\HandlingExepctions\obj\Debug\net6.0\HandlingExepctions.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\HandlingExepctions\obj\Debug\net6.0\ref\HandlingExepctions.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\HandlingExepctions\obj\Debug\net6.0\HandlingExepctions.pdb
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\HandlingExepctions\obj\Debug\net6.0\HandlingExepctions.genruntimeconfig.cache

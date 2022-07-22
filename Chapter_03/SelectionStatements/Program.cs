@@ -111,7 +111,7 @@ message = s switch
     FileStream writeableFile when s.CanWrite => "The stream is a file that I can write to.",
     FileStream readonlyFile => "The stream is a read-only file.",
     MemoryStream ms => "The stream is a memory address",
-    null => "The stream is null.",
+   _ null => "The stream is null.",
  => "The stream is some other type"
 
 

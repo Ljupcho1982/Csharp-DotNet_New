@@ -12,3 +12,4 @@ C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\CastingCo
 C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\CastingConverting\obj\Debug\net6.0\ref\CastingConverting.dll
 C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\CastingConverting\obj\Debug\net6.0\CastingConverting.pdb
 C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\CastingConverting\obj\Debug\net6.0\CastingConverting.genruntimeconfig.cache
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter_03\CastingConverting\obj\Debug\net6.0\CastingConverting.csproj.AssemblyReference.cache
