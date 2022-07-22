@@ -35,7 +35,12 @@
       "ProjectGuid": "de11d2aa-e844-402d-a7af-f67e60d301e6",
       "DisplayName": "CastingConverting",
       "ColorIndex": 5
+    },
+    "0461ec17-0d79-423a-a08b-fd6a1ebc91ac": {
+      "ProjectGuid": "0461ec17-0d79-423a-a08b-fd6a1ebc91ac",
+      "DisplayName": "HandlingExepctions",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }
