@@ -1,0 +1,16 @@
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex02-net 5\bin\Debug\net5.0\Ch06Ex02-net 5.exe
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex02-net 5\bin\Debug\net5.0\Ch06Ex02-net 5.deps.json
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex02-net 5\bin\Debug\net5.0\Ch06Ex02-net 5.runtimeconfig.json
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex02-net 5\bin\Debug\net5.0\Ch06Ex02-net 5.runtimeconfig.dev.json
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex02-net 5\bin\Debug\net5.0\Ch06Ex02-net 5.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex02-net 5\bin\Debug\net5.0\Ch06Ex02-net 5.pdb
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex02-net 5\obj\Debug\net5.0\Ch06Ex02-net 5.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex02-net 5\obj\Debug\net5.0\Ch06Ex02-net 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex02-net 5\obj\Debug\net5.0\Ch06Ex02-net 5.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex02-net 5\obj\Debug\net5.0\Ch06Ex02-net 5.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex02-net 5\obj\Debug\net5.0\Ch06Ex02-net 5.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex02-net 5\obj\Debug\net5.0\Ch06Ex02-net 5.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex02-net 5\obj\Debug\net5.0\refint\Ch06Ex02-net 5.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex02-net 5\obj\Debug\net5.0\Ch06Ex02-net 5.pdb
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex02-net 5\obj\Debug\net5.0\Ch06Ex02-net 5.genruntimeconfig.cache
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex02-net 5\obj\Debug\net5.0\ref\Ch06Ex02-net 5.dll

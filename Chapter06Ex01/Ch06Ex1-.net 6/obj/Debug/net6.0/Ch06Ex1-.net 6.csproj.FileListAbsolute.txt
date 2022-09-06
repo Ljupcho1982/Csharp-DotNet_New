@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex1-.net 6\bin\Debug\net6.0\Ch06Ex1-.net 6.exe
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex1-.net 6\bin\Debug\net6.0\Ch06Ex1-.net 6.deps.json
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex1-.net 6\bin\Debug\net6.0\Ch06Ex1-.net 6.runtimeconfig.json
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex1-.net 6\bin\Debug\net6.0\Ch06Ex1-.net 6.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex1-.net 6\bin\Debug\net6.0\Ch06Ex1-.net 6.pdb
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex1-.net 6\obj\Debug\net6.0\Ch06Ex1-.net 6.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex1-.net 6\obj\Debug\net6.0\Ch06Ex1-.net 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex1-.net 6\obj\Debug\net6.0\Ch06Ex1-.net 6.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex1-.net 6\obj\Debug\net6.0\Ch06Ex1-.net 6.AssemblyInfo.cs
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex1-.net 6\obj\Debug\net6.0\Ch06Ex1-.net 6.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex1-.net 6\obj\Debug\net6.0\Ch06Ex1-.net 6.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex1-.net 6\obj\Debug\net6.0\refint\Ch06Ex1-.net 6.dll
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex1-.net 6\obj\Debug\net6.0\Ch06Ex1-.net 6.pdb
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex1-.net 6\obj\Debug\net6.0\Ch06Ex1-.net 6.genruntimeconfig.cache
+C:\FullStackDevelopment\CSharpCodeAcademy\Csharp-DotNet_New\Chapter06Ex01\Ch06Ex1-.net 6\obj\Debug\net6.0\ref\Ch06Ex1-.net 6.dll
